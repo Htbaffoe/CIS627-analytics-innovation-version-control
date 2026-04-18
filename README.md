@@ -14,3 +14,7 @@ A coach could use this dashboard before games or during weekly planning to decid
 
 ## Connection to Chapter 7
 At this point, this idea is in the **creative phase** of innovation. It has been clearly defined and connected to an important organizational decision, but it has not yet been tested or refined. This matches Chapter 7 because the creative phase focuses on generating a useful analytics idea before moving into prototyping, engagement, and build.
+## Prototype Evaluation
+The prototype enhancement should be integrated into the main project if it makes the dashboard easier for decision makers to use and improves the clarity of rotation decisions. In analytics settings, adoption depends not only on the quality of the idea but also on whether coaches and team leaders find it practical and easy to apply.
+
+The most important feedback would come from decision makers such as coaches, performance staff, or front office leaders. Their feedback should focus on whether the enhancement improves clarity, fits naturally into workflow, and increases confidence in playing-time decisions. If the prototype adds value without making the tool more confusing, it should be adopted.
