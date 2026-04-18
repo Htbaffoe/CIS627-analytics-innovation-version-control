@@ -26,3 +26,9 @@ The prototype enhancement should be integrated into the main project if it makes
 The most important feedback would come from decision makers such as coaches, performance staff, or front office leaders. Their feedback should focus on whether the enhancement improves clarity, fits naturally into workflow, and increases confidence in playing-time decisions. If the prototype adds value without making the tool more confusing, it should be adopted.
 ## Integration Decision
 The prototype enhancement was merged into the main project because it improves usability and makes the analytics output easier for decision makers to interpret. By simplifying the presentation of player readiness, the enhancement increases the likelihood that the tool will be used in real organizational decisions.
+## Reflection on Innovation and Version Control
+Branches support low-risk experimentation because they allow analytics teams to test ideas without changing the main version of a project. This helps organizations explore improvements, compare options, and refine analytics tools before they are formally adopted.
+
+GitHub helps analytics ideas gain traction with decision makers by making the development process visible, organized, and iterative. It allows teams to document ideas, track revisions, and clearly communicate how a concept has evolved over time.
+
+This workflow aligns with the innovation framework in Chapter 7 because it reflects movement from the creative phase to prototyping, evaluation, and implementation. The main branch represents the stable project, while the prototype branch represents experimentation and refinement before adoption.
