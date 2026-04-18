@@ -14,3 +14,7 @@ A coach could use this dashboard before games or during weekly planning to decid
 
 ## Connection to Chapter 7
 At this point, this idea is in the **creative phase** of innovation. It has been clearly defined and connected to an important organizational decision, but it has not yet been tested or refined. This matches Chapter 7 because the creative phase focuses on generating a useful analytics idea before moving into prototyping, engagement, and build.
+## Prototype Enhancement
+The prototype enhancement adds a **visual classification layer** to the Player Rotation Readiness Dashboard. Instead of showing only raw performance and workload metrics, the dashboard would group players into categories such as **Ready for Expanded Role**, **Stable Current Role**, and **Monitor for Fatigue**.
+
+This change could improve decision-making because coaches and executives often need fast, actionable insights rather than a table full of metrics. By translating multiple indicators into a simple status summary, the tool becomes easier to understand and more useful during real planning and game-preparation situations.
